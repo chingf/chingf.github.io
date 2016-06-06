@@ -1,6 +1,6 @@
 #topbar {
-	height: 100px;
-	background: #bdbdbd;
+	height: 50px;
+	background: #149283;
 	position: fixed;
 	width: 100%;
 	z-index: 10;
@@ -8,8 +8,13 @@
 
 .topbar-item {
 	margin-top: 15px;
+	margin-bottom: 15px;
+	color: white;
+	font-size: 20px;
 	margin-right: 50px;
+	margin-left: 50px;
 	display: inline-block;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .banner {
@@ -19,24 +24,34 @@
     background: rgba(0, 128, 89, 0.53);
     position: fixed;
     z-index: -2;
-    top: 100px;
-    opacity: 60%;
+    top: 58px;
+    background-image: url('mononoke-forest.jpg')
+    opacity: 60;
 }
 
 #profile {
-	width: 100px;
-	height: 100px;
+	width: 300px;
+	height: 300px;
 	border-radius: 50%;
 	z-index: -1;
 	background: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 75px;
+}
+
+#profile img {
+	max-width:100%
+	margin: auto;
+	display:block;
 }
 
 #intro {
 	position: absolute;
-	height: 200px;
+	height: 125px;
 	width: 100%;
-	top: calc(50% - 200/2);
 	text-align: center;
-	font: white;
-	font-size: 36;
+	color: white;
+	font-size: 24px;
+	padding-top: 20px;
 }
