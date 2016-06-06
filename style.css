@@ -25,7 +25,7 @@
     position: fixed;
     z-index: -2;
     top: 58px;
-    background-image: url('mononoke-forest.jpg')
+    background-image: url('mononoke-forest.jpg');
     opacity: 60;
 }
 
