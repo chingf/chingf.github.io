@@ -190,7 +190,7 @@ body {
 	position:absolute;
 	z-index: 4;
 	width: 45%;
-	height: 96%;
+	height: 45%;
 	display: inline-block;
 	font-size: 16px;
 	margin: 1% 2% 1% 2%;
@@ -250,6 +250,39 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+.image-wrapper .image {
+	width: 30%;
+	margin: 1% 1% 1% 1%;
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	height: 300px;
+}
+
+#img1 {
+	background-image: url("./images/alishan.JPG");
+}
+
+#img2 {
+	background-image: url("./images/nadi.JPG");
+}
+
+#img3 {
+	background-image: url("./images/valley.jpg");
+}
+
+#img4 {
+	background-image: url("./images/flowers.jpg");
+}
+
+#img5 {
+	background-image: url("./images/stanislaus.JPG");
+}
+
+#img6 {
+	background-image: url("./images/pika.JPG");
+}
 
 .material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
 .material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
