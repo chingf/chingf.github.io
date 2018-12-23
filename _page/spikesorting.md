@@ -1,8 +1,7 @@
 ---
 layout: article
-title: Page - Single
-permalink: /page/single.html
-key: page-single
+title: Spike Sorting Algorithms
+permalink: /projects/spike_sorting.html
 cover: /ching-photos/botm.jpg
 ---
 
