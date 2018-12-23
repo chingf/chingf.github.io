@@ -204,9 +204,7 @@ collections:
     output: true
   layouts:
     output: true
-  ching_docs:
-    output: true
-
+  
 ## => Plugins
 ##############################
 plugins:
