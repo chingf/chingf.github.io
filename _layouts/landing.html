@@ -27,10 +27,10 @@ article_header:
 
         <div class="hero__content">
           <div class="mb-5">
-
+            <h3>{{_section.profile}}</h3>
             <h3>{{ _section.title }}</h3>
               {%- if _section.excerpt-%}
-            <p>{{ _section.excerpt }}</p>
+	      <p> <font color="black">{{ _section.excerpt }} </font></p>
             {%- endif -%}
 
             {%- if _section.actions -%}
