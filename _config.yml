@@ -220,6 +220,7 @@ include:
   - README.md
   - test.md
   - projects.md
-  - 61b.md          
+  - 61b.md
+  - other.html
 
 theme: jekyll-theme-cayman
