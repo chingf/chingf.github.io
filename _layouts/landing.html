@@ -27,7 +27,7 @@ article_header:
 
         <div class="hero__content">
           <div class="mb-5">
-            <h3> <img src="/ching-photos/prof.jpg" width="350px" height="350px"> </h3>
+		  <h3> HIHIHI {{_section.title}} </h3>
               {%- if _section.excerpt-%}
 	      <p> {{ _section.excerpt }} </p>
             {%- endif -%}
@@ -67,7 +67,7 @@ article_header:
                   <div class="cell cell--12 cell--md-{{ _cell_md_col }} cell--lg-{{ _cell_lg_col }} ">
 
                     <div class="mb-5">
-                      <h4></h4>
+		      <h4>{{child.title}}</h4>
 
                       {%- if child.excerpt-%}
                         <p>{{ child.excerpt }}</p>
