@@ -4,7 +4,7 @@ header:
       zh:       关于
       zh-Hans:  关于
       zh-Hant:  關於
-    url:        /test.html
+    url:        /projects.html
   - titles:
       en:       Data Structures
       zh:       关于
@@ -12,11 +12,11 @@ header:
       zh-Hant:  關於
     url:        /61b.html
   - titles:
-      en:       Misc
+      en:       Other
       zh:       关于
       zh-Hans:  关于
       zh-Hant:  關於
-    url:        /misc.html
+    url:        /other.html
   - titles:
       en:       Resume
       zh:       关于
