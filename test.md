@@ -10,7 +10,7 @@ key: page-test
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-TESTTESTESTESTESTESTSETESTESTESTSETETESTESTESTTeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Simila
+Push from Sunday 12:21 AM
 
 ```javascript
 (() => console.log('Hello, World!'))();
