@@ -12,7 +12,5 @@ articles:
 
 ---
 
-Project descriptions Take II
 
 <!--more-->
-Project descriptions!!!!
