@@ -202,8 +202,6 @@ defaults:
 collections:
   page:
     output: true
-  layouts:
-    output: true
   ching_docs:
     output: true
   
