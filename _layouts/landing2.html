@@ -28,9 +28,10 @@ article_header:
         <div class="hero__content">
           <div class="mb-5">
 
-            <h3>{{ _section.title }}</h3>
+	      <h3> {{ _section.title }} </h3>
+	      <p> asdf </p>
               {%- if _section.excerpt-%}
-            <p>{{ _section.excerpt }}</p>
+	      <p> {{ _section.excerpt }} </p>
             {%- endif -%}
 
             {%- if _section.actions -%}
@@ -68,8 +69,8 @@ article_header:
                   <div class="cell cell--12 cell--md-{{ _cell_md_col }} cell--lg-{{ _cell_lg_col }} ">
 
                     <div class="mb-5">
-                      <h4>{{ child.title }}</h4>
-
+		      <h4>{{ child.title}}</h4>
+		      <p> aaaaaa </p>
                       {%- if child.excerpt-%}
                         <p>{{ child.excerpt }}</p>
                       {%- endif -%}
