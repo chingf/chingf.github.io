@@ -1,4 +1,10 @@
-﻿
+﻿<!doctype html>
+---
+layout: page
+title: Java Notes
+permalink: /notes/java_intro.html
+---
+
 **INTRO TO JAVA**
 
 Java is called a compiled language, but it is technically a little bit compiled and a little bit interpreted. Usually, the programmer writes Java source code, which is compiled to class files. These class files are in byte code, and can be interpreted or compiled by machine (depending on implementation). Compiling makes things faster and helps with error checking.
