@@ -222,5 +222,7 @@ include:
   - projects.md
   - 61b.md
   - other.md
+  - git.md
+  - java_intro.md
 
 theme: jekyll-theme-cayman
