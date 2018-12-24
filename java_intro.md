@@ -16,6 +16,8 @@ Java is also pass-by-value; this means when a function is called, its parameters
 
 Some things you’ll see in the code...
 
+
+
 **MODIFIERS:**
 
 1.  Access- Control Modifiers  
@@ -36,6 +38,8 @@ Some things you’ll see in the code...
     **abstract** methods are declared, but not implemented. They're kind of like a placeholder, waiting for a programmer to fill in their purpose. An abstract class is just a class that contains one or more abstract methods. Generally speaking, the purpose of an abstract class is to provide a skeleton. This skeleton may have  _some_  concrete methods already, but its abstract methods still need to be filled in by subclasses. Like interfaces, abstract classes are helpful when you have classes that may do similar things in very different ways. If you’re curious, [here](http://programmers.stackexchange.com/a/152785)’s a good explanation of when to use abstract classes or interfaces, as well as some examples (There's also a few shorter examples in the Interfaces explanation below)  
     Abstract class can not be instantiated directly but can be extended by other class.
 
+
+
 **SOME JAVA JARGON**
 
 1.  Interfaces  
@@ -51,7 +55,7 @@ Some things you’ll see in the code...
       
     Polymorphism is the capability of a method to do different things based on the object that it is acting upon. Interfaces are useful to achieve this! It sounds a little confusing, but let’s think about the two ways to achieve polymorphism:  
       
-    **(1) Method overloading**:  
+    _(1) Method overloading_:  
       
     Imagine you have a class Arithmetic:
 	```
@@ -67,7 +71,7 @@ Some things you’ll see in the code...
 	```
 	   Notice how the method multiply is defined twice. Thus, multiply can accept integer arguments or String arguments. This method behaves differently depending on what type of objects are passed in! This is also called compile time polymorphism  
       
-	   **(2) Method overriding:**  
+	   _(2) Method overriding:_  
 	Imagine you have the following parent and child classes  
 
 	```    
@@ -89,6 +93,7 @@ Some things you’ll see in the code...
 	    }  
 	```
 	Basically, the child class' method behaves differently than the parent class’ method. This is called run time polymorphism. A nice thing about polymorphism that relates to method overriding is that, if an argument in a method requires a reference to some class, we can provide either that class or any subclass of that class. Interesting [tidbit](http://stackoverflow.com/questions/14694852/can-overridden-methods-differ-in-return-type)
+
 3.  **Enum** 
       
     Enums are lists of constants, implicitly static and final. When you need a predefined list of values which do not represent some kind of numeric or textual data, you should use an enum.  
