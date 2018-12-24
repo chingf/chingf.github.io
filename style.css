@@ -214,7 +214,7 @@ body {
 }
 
 #proj1 {
-	background-image: url('./images/botm.png');
+	background-image: url('/ching-photos/botm.png');
 }
 
 #proj2 {
@@ -222,19 +222,19 @@ body {
 }
 
 #proj3 {
-	background-image: url('./images/psiturk.png');
+	background-image: url('/ching-photos/psiturk.png');
 }
 
 #proj4 {
-	background-image: url('./images/pac.png');
+	background-image: url('/ching-photos/pac.png');
 }
 
 #proj5 {
-	background-image: url('./images/cpu.png');
+	background-image: url('/ching-photos/cpu.png');
 }
 
 #proj6 {
-	background-image: url('./images/gitlet.png');
+	background-image: url('/ching-photos/gitlet.png');
 }
 
 .book-wrapper {
@@ -278,27 +278,27 @@ body {
 }
 
 #img1 {
-	background-image: url("./images/rsz_alishan.png");
+	background-image: url("/ching-photos/rsz_alishan.png");
 }
 
 #img2 {
-	background-image: url("./images/rsz_nadi.png");
+	background-image: url("/ching-photos/rsz_nadi.png");
 }
 
 #img3 {
-	background-image: url("./images/rsz_taroko.png");
+	background-image: url("/ching-photos/rsz_taroko.png");
 }
 
 #img4 {
-	background-image: url("./images/rsz_flowers.png");
+	background-image: url("/ching-photos/rsz_flowers.png");
 }
 
 #img5 {
-	background-image: url("./images/rsz_stanislaus.png");
+	background-image: url("/ching-photos/rsz_stanislaus.png");
 }
 
 #img6 {
-	background-image: url("./images/rsz_pika.png");
+	background-image: url("/ching-photos/rsz_pika.png");
 }
 
 .material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
