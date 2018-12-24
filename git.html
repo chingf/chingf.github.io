@@ -1,18 +1,16 @@
 <!doctype html>
 ---
-layout: article
+layout: page
 title: Git Notes (61B Fall 2016)
 permalink: /notes/git.html
 ---
 
-<div class = 'main-body'>
-<p><strong>GIT: WHAT IS GOING ON?</strong></p><br>
 <p><span style="font-weight: 400;">CONCEPTUAL OVERVIEW:</span></p>
 <p><strong>What is Git?</strong><span style="font-weight: 400;"> It is a version control system; in other words, it&rsquo;s a way for a programmer to keep track of all their old versions of code. An analogy is that Git keeps snapshots of your code throughout time. Why is this useful? What if you were working on a project and realized all the changes made during a late-night epiphany was actually completely incorrect? In order to get back the old version of your code (or snapshot), all you&rsquo;d need to do is to tell Git to revert your code back to the state it was in during that snapshot. Directories in which Git is initialized are called repositories.</span></p>
 <p><strong><strong>&nbsp;</strong></strong></p>
 <p><strong>How is Git relevant to the course? </strong><span style="font-weight: 400;">Another great feature of Git is its ability to allow multiple people to work on one project or piece of code at once. There can be one central repository containing all the files, and users can pull from that repository as needed. The benefit here is that some person Bob can pull in files to his own computer, and make changes there. However, the central repository is still left unchanged, and other people can pull in fresh copies of the files from the central repository (of course, they can later push in their changes to the central repository, but that&rsquo;s another story). This is useful. Here&rsquo;s a simplified version of our own git scenario: the 61B course staff has, in the taa account, skeletons for labs/hw/projects. We want a way that all the students can easily pull these skeletons into their computers, make changes, and send their solutions for labs/hw/projects back in. Git works perfectly for this!</span></p>
 <p><strong><strong>&nbsp;</strong></strong></p>
-<p><strong>What&rsquo;s all this local/remote crap? </strong></p>
+<p><strong>What&rsquo;s the local/remote? </strong></p>
 <p><span style="font-weight: 400;">Let&rsquo;s think back to the taa account that contains all the skeleton files; the taa account belongs to the cs6b instructional account group. As a student, you also have a cs61b account (for sake of example, let&rsquo;s say 61b-abc from now on). The taa account maintains a repository for all students; in this case taa maintains a repository for abc. There are two ways for you to access the skeleton files available in the abc repository. 1. Through your instructional account; 2. Through your home computer.</span></p>
 <p><strong><strong>&nbsp;</strong></strong></p>
 <ol>
@@ -21,7 +19,7 @@ permalink: /notes/git.html
 </ol>
 <p><strong><strong>&nbsp;</strong></strong></p>
 <p><span style="font-weight: 400;">Diagram:</span></p>
-<p><img src="../images/gitDiagram.png" alt="" /></p>
+<p><img src="/ching-photos/gitDiagram.png" alt="" /></p>
 <p><strong>&nbsp;</strong></p>
 <p><span style="font-weight: 400;">A brief interlude about ssh and scp:</span></p>
 <p><span style="font-weight: 400;">ssh (</span><strong>S</strong><span style="font-weight: 400;">ecure </span><strong>SH</strong><span style="font-weight: 400;">ell): A secure way to connect to a remote computer from your own local computer. Here, the command will be &ldquo;ssh &lt;address&gt;&rdquo;, or &ldquo;ssh cs61b-abc@ashby.cs.berkeley.edu&rdquo;. Besides ashby, other servers you may use to access the instructional accounts are cory eecs, derby, hive, etc.</span></p>
