@@ -55,7 +55,7 @@ Some things you’ll see in the code...
       
     Polymorphism is the capability of a method to do different things based on the object that it is acting upon. Interfaces are useful to achieve this! It sounds a little confusing, but let’s think about the two ways to achieve polymorphism:  
       
-    _(1) Method overloading_:  
+    (1) Method overloading:  
       
     Imagine you have a class Arithmetic:
 	```
@@ -71,7 +71,7 @@ Some things you’ll see in the code...
 	```
 	   Notice how the method multiply is defined twice. Thus, multiply can accept integer arguments or String arguments. This method behaves differently depending on what type of objects are passed in! This is also called compile time polymorphism  
       
-	   _(2) Method overriding:_  
+	   (2) Method overriding:  
 	Imagine you have the following parent and child classes  
 
 	```    
