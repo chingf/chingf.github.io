@@ -1,5 +1,4 @@
-﻿<!doctype html>
----
+﻿---
 layout: page
 title: Java Notes
 permalink: /notes/java_intro.html

@@ -8,7 +8,7 @@ Distance running, reading, cooking
 -   _Goodbye Columbus_  by Phillip Roth
 -   _What is the What_  by Dave Eggers
 -   _The Savage Detectives_  by Roberto Bolaño
--   _A Thousand Splendid Suns_Khaled Hosseini
+-   _A Thousand Splendid Suns_ by Khaled Hosseini
 
   
   

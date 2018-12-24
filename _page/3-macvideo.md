@@ -11,4 +11,4 @@ Specifically, users can now upload ROI coordinates and radii. The app will get t
 
 <!--more-->
 
-Github repo available [here](https://github.com/chingf/CarmenaCameraGithub repo available [here](https://github.com/chingf/CarmenaCamera). This application was developed as part of a brain-machine interfaces (BMI) project in the Carmena lab of UC Berkeley. The project brought BMI to mice in their home cage, such that the BMI could be run throughout the day.
+Github repo available [here](https://github.com/chingf/CarmenaCamera). This application was developed as part of a brain-machine interfaces (BMI) project in the Carmena lab of UC Berkeley. The project brought BMI to mice in their home cage, such that the BMI could be run throughout the day.

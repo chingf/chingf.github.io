@@ -1,4 +1,3 @@
-<!doctype html>
 ---
 layout: page
 title: Git Notes (61B Fall 2016)
