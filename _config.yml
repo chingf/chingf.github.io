@@ -221,6 +221,6 @@ include:
   - test.md
   - projects.md
   - 61b.md
-  - other.html
+  - other.md
 
 theme: jekyll-theme-cayman
