@@ -24,7 +24,7 @@ Some things you’ll see in the code...
       
     These are not assigned to classes, but the constructors/methods/fields within the classes. It controls how visible these constructors/methods/fields are to other objects.
     
-    ![Access Modifiers](/ching-photos/access-mod.png)
+    ![Access Modifiers](/ching-photos/access-mod.jpg)
     
 
 2.  Non-Access Modifiers  

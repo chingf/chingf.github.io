@@ -2,7 +2,7 @@
 layout: article
 title: Video Capture Application
 permalink: /projects/macvideo.html
-cover: /ching-photos/feedback.png
+cover: /ching-photos/feedback.jpg
 ---
 
 Added features to an existing macOS app for mouse brain-machine interface: implementation of a closed-loop system for data processing and feedback control with Arduino (details at below link). Developed in Swift with Xcode. 

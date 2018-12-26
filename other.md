@@ -14,4 +14,4 @@ Distance running, reading, cooking
   
 See ["Joshua Tree"](https://issuu.com/wowjournal/docs/journal_2016_final?e=11454900%2F38192403), for an environmental awareness article I wrote for _Words of the Watershed_ journal.
 
-![](ching-photos/rsz_pika.png)
+![](ching-photos/rsz_pika.jpg)

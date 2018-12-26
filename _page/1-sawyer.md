@@ -3,7 +3,7 @@ layout: article
 title: Medical Robot
 permalink: /projects/medical_robot.html
 key: page-single
-cover: /ching-photos/sawyer.png
+cover: /ching-photos/sawyer.jpg
 ---
 
 Using Rethink Robotic's Sawyer robot to automate a mock ultrasonagraphy procedure. Implementation included: computer vision with marker tracking, positional control with joint velocities, and force controls with joint velocities.

@@ -20,7 +20,7 @@ Let’s think back to the taa account that contains all the skeleton files; the 
 
 Diagram:
 
-![](/ching-photos/gitDiagram.png)
+![](/ching-photos/gitDiagram.jpg)
 
 A brief interlude about ssh and scp:
 
