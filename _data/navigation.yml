@@ -1,27 +1,18 @@
 header:
   - titles:
+      en:       Publications
+    url:        /publications.html
+  - titles:
       en:       Projects
-      zh:       关于
-      zh-Hans:  关于
-      zh-Hant:  關於
     url:        /projects.html
   - titles:
-      en:       Data Structures
-      zh:       关于
-      zh-Hans:  关于
-      zh-Hant:  關於
-    url:        /61b.html
+      en:       Teaching
+    url:        /teaching.html
   - titles:
       en:       Other
-      zh:       关于
-      zh-Hans:  关于
-      zh-Hant:  關於
     url:        /other.html
   - titles:
-      en:       Resume
-      zh:       关于
-      zh-Hans:  关于
-      zh-Hant:  關於
-    url:        /notes/resume.pdf
+      en:       CV
+    url:        /notes/CV.pdf
 
 
