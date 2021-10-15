@@ -17,6 +17,6 @@ I am broadly interested in understanding how biological circuits can support lea
 Within the Abbott and Aronov labs, I work on mechanistic models of
 memory formation and retrieval, occasionally taking inspiration from models used in AI.
 
-Previously, I finished my undergrad at UC Berkeley, where I studied computer science
+I previously did my undergrad at UC Berkeley, where I studied computer science
 and molecular & cell biology. There, I worked in the lab of Jose Carmena in understanding
 how neural circuits drive neuroprosthetic learning.
