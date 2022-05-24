@@ -1,6 +1,7 @@
 ﻿I was a teaching assistant for UC Berkeley's data structures course
 (three semesters), algorithms course (one semester), and synthetic biology course
- (one semester).
+ (one semester). I also lectured for the linear algebra section for Columbia University's 
+Introduction to Theoretical Neuroscience course (one semester).
 
 Below are notes and practice problems I created for students, as well as 
 useful resources I compiled.
