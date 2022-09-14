@@ -5,7 +5,7 @@ title:
 
 <img style="float: left; margin: 0 50px 0 0;" src="/ching-photos/prof2.JPG"
  width="400" height="auto"
- />
+/>
 <br>
 <font size="6"> Hi, I'm Ching!</font>
 I am a PhD candidate at Columbia University's neuroscience program, co-advised by Larry Abbott and Dmitriy Aronov. I work in the Center for Theoretical Neuroscience.
