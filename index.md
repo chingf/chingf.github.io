@@ -3,8 +3,9 @@ layout: article
 title:
 ---
 
-<img style="float: left; margin: 0 50px 0 0;" src="/ching-photos/prof2.JPG"
+<img style="float: left; margin: 0 50px 0 0;" src="/ching-photos/ching_fang_neuroscience.jpg"
  width="400" height="auto"
+alt="Image of Ching Fang, neuroscientist at Columbia University."
 />
 <br>
 <font size="6"> Hi, I'm Ching!</font>
