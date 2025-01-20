@@ -1,11 +1,5 @@
 header:
   - titles:
-      en:       Publications
-    url:        /publications.html
-  - titles:
-      en:       Teaching
-    url:        /teaching.html
-  - titles:
       en:       Other
     url:        /other.html
   - titles:
