@@ -1,5 +1,9 @@
-﻿Teaching Experience
--------------
+﻿---
+layout: article
+title: ""
+---
+
+## Teaching Experience
 
 I was a teaching assistant for UC Berkeley's data structures course
 (three semesters), algorithms course (one semester), and synthetic biology course
@@ -22,8 +26,7 @@ Here are examples of notes and practice problems I created for students:
  - [Disjoint Sets and Minimum Spanning Tree Algorithms](/notes/Kruskals-DisjointSets.pdf)
  - Finals Review: [[Worksheet](/notes/FinalReview-Worksheet.pdf)] [[Solutions](/notes/FinalReview-Solutions.pdf)]
 
-Writing Experience
--------------
+## Writing Experience
 
 I wrote a [profile article](https://scisub.com/2020/10/05/keven-laboy-juarez/) for Scientist on the Subway, one of Columbia neuroscience's outreach efforts that tells the diverse stories of scientists in the field.
  
