@@ -19,11 +19,13 @@ title:
 <h3 style="margin-top: 40px; font-weight: normal;">Updates</h3> 
 <div style="max-height: 250px; overflow-y: scroll; border: 2px solid #ccc; padding: 10px; margin-top: 20px;">
     <ul>
+        <li>March 2025: Presented at the Yale Neuro-AI journal club</li>
         <li>Jan 2025: Our paper "<a href="https://elifesciences.org/reviewed-preprints/103512">Barcode activity in a recurrent network model of the hippocampus enables efficient memory binding</a>" is now out in eLife</li>
         <li>Dec 2024: Presented my internship work with Apple at NeuRIPS Medical Foundation Models Workshop: "<a href="https://arxiv.org/abs/2410.16424">Promoting cross-modal representations to improve multimodal foundation models for physiological signals</a>"</li>
         <li>Oct 2024: Started my postdoc with Kanaka Rajan</li>
         <li>Sep 2024: Defended my thesis and finished my PhD</li>
         <li>Sep 2024: Finished my ML research internship at Apple</li>
+        <li>May 2024: Presented ICLR Oral on our paper "<a href="https://openreview.net/forum?id=agPpmEgf8C">Predictive auxiliary objectives in deep RL mimic learning in the brain</a>"</li>
         <!-- Add more updates as needed -->
     </ul>
 </div>
