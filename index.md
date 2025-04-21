@@ -19,7 +19,8 @@ title:
 <h3 style="margin-top: 40px; font-weight: normal;">Updates</h3> 
 <div style="max-height: 250px; overflow-y: scroll; border: 2px solid #ccc; padding: 10px; margin-top: 20px;">
     <ul>
-        <li>March 2025: Presented at the Yale Neuro-AI journal club</li>
+        <li>Apr 2025: Organized a Cosyne workshop "<a href="https://neuro-agent-models.github.io/">Agent-based Models in Neuroscience: Complex Planning, Embodiment and Beyond</a>"</li>
+        <li>Mar 2025: Presented at the Yale Neuro-AI journal club</li>
         <li>Jan 2025: Our paper "<a href="https://elifesciences.org/reviewed-preprints/103512">Barcode activity in a recurrent network model of the hippocampus enables efficient memory binding</a>" is now out in eLife</li>
         <li>Dec 2024: Presented my internship work with Apple at NeuRIPS Medical Foundation Models Workshop: "<a href="https://arxiv.org/abs/2410.16424">Promoting cross-modal representations to improve multimodal foundation models for physiological signals</a>"</li>
         <li>Oct 2024: Started my postdoc with Kanaka Rajan</li>
