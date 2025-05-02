@@ -11,9 +11,9 @@ title:
 
 <div style="text-align: center; margin-top: 20px;">
     <font size="5"> Hi, I'm Ching!</font>
-    <p>I am a postdoc at Harvard University in <a href="https://www.rajanlab.com/">Kanaka Rajan's lab</a>. I am interested in theoretical neuroscience and NeuroAI research. I completed my PhD at Columbia University's Center for Theoretical Neuroscience, co-advised by Larry Abbott and Dmitriy Aronov.</p>
-    <p>I am interested in understanding representation learning in artificial systems tested on real-world tasks and using these findings to gain insight into brain function. I also want to understand how episodic memory supports fast, efficient learning, with particular interest in key-value memory systems.</p>
-    <p>In the Abbott and Aronov labs, I worked on mechanistic models of memory formation and retrieval, taking inspiration from advances in machine learning. I previously did my undergrad at UC Berkeley, where I studied computer science and molecular & cell biology. There, I worked in the lab of Jose Carmena to understand how neural circuits drive neuroprosthetic learning. I also worked in the labs of Daniel Feldman and Anne Collins.</p>
+    <p>I am a postdoc at Harvard University in <a href="https://www.rajanlab.com/">Kanaka Rajan's lab</a>, interested in understanding mechanisms underlying natural and artificial intelligence. I completed my PhD at Columbia University's Center for Theoretical Neuroscience, co-advised by Larry Abbott and Dmitriy Aronov.</p>
+    <p>In past work, I've focused on understanding the role of episodic memory in learning and the dynamics of representation learning in RL. This includes work connecting hippocampal memory to key-value memory & self-attention, and work connecting self-supervised representation objectives in RL to neural activity.</p>
+    <p>I was also a previous ML research intern at Apple, working on multimodal foundation models for biosignals. I previously completed my undergraduate degree at UC Berkeley, where I studied computer science and molecular & cell biology. There, I worked in the lab of Jose Carmena to understand how neural circuits drive learning in brain-machine interfaces. I also worked in the labs of Daniel Feldman and Anne Collins.</p>
 </div>
 
 <h3 style="margin-top: 40px; font-weight: normal;">Updates</h3> 
