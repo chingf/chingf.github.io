@@ -1,9 +1,12 @@
 header:
   - titles:
-      en:       Other
-    url:        /other.html
+      en:       Resume
+    url:        /Resume.pdf
   - titles:
       en:       CV
     url:        /CV.pdf
+  - titles:
+      en:       Other
+    url:        /other.html
 
 
