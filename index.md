@@ -6,14 +6,13 @@ title:
 <div style="text-align: center;">
     <img src="/ching-photos/ching_fang_neuroscience.jpg"
          width="300" height="300" style="border-radius: 50%; object-fit: cover;" 
-         alt="Image of Ching Fang, neuroscientist at Columbia University." />
+         />
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
     <font size="5"> Hi, I'm Ching!</font>
-    <p>I am a postdoc at Harvard University in <a href="https://www.rajanlab.com/">Kanaka Rajan's lab</a>, interested in understanding mechanisms underlying natural and artificial intelligence. I completed my PhD at Columbia University's Center for Theoretical Neuroscience, co-advised by Larry Abbott and Dmitriy Aronov.</p>
-    <p>In past work, I've focused on understanding the role of episodic memory in learning and the dynamics of representation learning in RL. This includes work connecting hippocampal memory to key-value memory & self-attention, and work connecting self-supervised representation objectives in RL to neural activity.</p>
-    <p>I was also a previous ML research intern at Apple, working on multimodal foundation models for biosignals. I previously completed my undergraduate degree at UC Berkeley, where I studied computer science and molecular & cell biology. There, I worked in the lab of Jose Carmena to understand how neural circuits drive learning in brain-machine interfaces. I also worked in the labs of Daniel Feldman and Anne Collins.</p>
+    <p>I work on research in AI and neuroscience. I'm interested in studying mechanistic circuits behind cognitive behaviors (for example, in <a href="https://arxiv.org/abs/2506.19686">transformers that in-context reinforcement learn</a>) and understanding how representation structures influence learning (for example, from self-supervised learning in <a href="https://openreview.net/forum?id=agPpmEgf8C">deep RL models</a> or <a href="https://arxiv.org/abs/2410.16424">multimodal foundation models</a>). </p>
+    <p>I am currently a research fellow at the Cambridge-Boston Alignment Initiative, after working as a postdoctoral researcher at Harvard University. I completed my PhD at Columbia University's Center for Theoretical Neuroscience, where my research centered on models of episodic memory in the hippocampus and key-value memory. I was also a previous ML research intern at Apple, working on multimodal foundation models for biosignals. I completed my undergraduate degree in computer science and molecular biology at UC Berkeley, where I worked on research studying learning in brain-machine interfaces.</p>
 </div>
 
 <h3 style="margin-top: 40px; font-weight: normal;">Updates</h3> 
