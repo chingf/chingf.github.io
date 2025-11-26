@@ -1,0 +1,18 @@
+current directory: /Users/chingfang/chingf.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/chingfang/chingf.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251125-3302-9oa2uv sitelibdir\=./.gem.20251125-3302-9oa2uv clean
+
+current directory: /Users/chingfang/chingf.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251125-3302-9oa2uv sitelibdir\=./.gem.20251125-3302-9oa2uv
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/chingfang/chingf.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251125-3302-9oa2uv sitelibdir\=./.gem.20251125-3302-9oa2uv install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251125-3302-9oa2uv/racc
+
+current directory: /Users/chingfang/chingf.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251125-3302-9oa2uv sitelibdir\=./.gem.20251125-3302-9oa2uv clean
